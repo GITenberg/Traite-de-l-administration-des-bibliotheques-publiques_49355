@@ -1,10 +1,16 @@
 _repo: Traite-de-l-administration-des-bibliotheques-publiques_49355
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49355-h/images/cover.jpg
 creator:
   author:
     agent_name: Richou, Gabriel
     gutenberg_agent_id: '45283'
     url: http://www.gutenberg.org/2009/agents/45283
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49355#Traite-de-l-administration-des-bibliotheques-publiques
 gutenberg_bookshelf: FR Services publics
 gutenberg_issued: '2015-07-03'
 gutenberg_type: Text
